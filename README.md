@@ -73,7 +73,7 @@ if __name__ == "__main__":
             print(results)
             speak(results) 
             
- if else i an 76 hhuus    fir 
+ if else i am 76 fir 
 
         elif 'open youtube' in query:
             webbrowser.open("youtube.com")
@@ -106,7 +106,7 @@ if __name__ == "__main__":
                 speak("Email has been sent!")
             except Exception as e:
                 print(e)
-                speak("Sorry my friend jatin . I am not able to send this email")    
+                speak("Sorry my friend . I am not able to send this email")    
         else:
             print("No query matched")
              
